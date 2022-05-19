@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am Srishti...
+## I am Srishti, a computer science sophomore
 
 - 🔭 I’m currently working on my mini-project
 - 🌱 I’m currently learning Python
